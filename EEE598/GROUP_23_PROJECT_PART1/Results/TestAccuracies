@@ -1,0 +1,14 @@
+Following are the test accuracies for the models:
+
+Feature.py:
+
+Using features from VGG16 and classifying on SVM, Testing Accuracy = 92.93%
+Using features from Resnet18 and classifying on SVM, Testing Accuracy = 93.47%
+
+
+Finetune.py
+
+Using finetuned VGG16 model, Testing Accuracy = 93.48%
+Using finetuned VGG16 model, Testing Accuracy = 92.39%
+
+
