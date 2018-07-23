@@ -1,4 +1,4 @@
-#Folder descriptions:
+# Folder descriptions:
  - Lab1: Python Basics
  - Lab2: Machine Learning Basics
  - Lab3: Neural Network From Scratch
