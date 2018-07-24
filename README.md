@@ -1,5 +1,10 @@
-# Courses across all domains
+# Course projects across all domains
 
-- ASU: EEE598 Deep Learning Media Processing & Understanding
-- ASU: STP598 Statistical Machine Learning
-- Coursera: Deep Learning Specialization
+## ASU
+- AME520: Understanding Activity
+- CSE591: Perception in Robotics
+- EEE598: Deep Learning Media Processing & Understanding
+- STP598: Statistical Machine Learning
+
+## Online
+- Deep Learning Specialization (Coursera)
